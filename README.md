@@ -3,7 +3,7 @@
 -->
 
 ### Hi there  👋
-I am Hasan, currently a CS grad student at George Mason University, USA. Before moving to the grad school, I had the opportuity to work as a Software Engineer in different tech stack for around 5 years.
+I am Hasan, a CS Grad student & Teaching Assistant at George Mason University, USA. Before moving to the grad school, I had the opportuity to work as a Software Engineer in different tech stack for around 5 years. I love the world of backend systems development
 
 Here are some ideas to get you started:
 
