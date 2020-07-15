@@ -17,10 +17,10 @@ I am working on developing the follwoing projects:
 - To get myself better in the Software Architecture domain, I am currently reading the book **Microservices: From Design to Deployment** *by Chris Richardson
 with Floyd Smith* 
 
-
-
-
-## 📫 How to reach me: ...
+## 📫 How to reach me:
+- email: smhasanmansur@gmail.com
+- linkedin: https://www.linkedin.com/in/smhasanmansur/
+- twitter: @smhasanmansur
 
 <!--
 Here are some ideas to get you started:
