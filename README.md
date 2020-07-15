@@ -9,9 +9,10 @@ I am Hasan, a CS Grad student & Teaching Assistant at George Mason University, U
 I am working on developing the follwoing projects:
 - [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh) a Convolutional Neural Network model for Face Mask Detection
 - [PingPong](https://www.google.com) a Microservice boilerplate project to demonstrate different Software Engineering & Architecture aspects like *Microservice Architecture, Asynchronous I/O, Message Queueing, TDD, Containerization, CI/CD* 
-- [Drishtipat (Bengali: দৃষ্টিপাত)](https://github.com/hasanmansur/Drishtipat) a collection of programs to demonstrate various Computer Vision concepts/topics like *Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation*  
+- [Drishtipat (Bengali: দৃষ্টিপাত)](https://github.com/hasanmansur/Drishtipat) a collection of programs to demonstrate various Computer Vision concepts/topics like *Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation*
 
-## 🌱 I’m currently learning
+##  What I’m currently learning 🌱
+I am exploring, learning & trying to get better in the domain of Deep Learning. Currently I am doing the Udemy course [PyTorch for Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/). In parallel, I am reading the book [Dive into Deep Learning](https://d2l.ai/index.html)
 
 ## 📫 How to reach me: ...
 
