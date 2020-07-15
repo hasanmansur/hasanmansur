@@ -12,7 +12,10 @@ I am working on developing the follwoing projects:
 - [Drishtipat (Bengali: দৃষ্টিপাত)](https://github.com/hasanmansur/Drishtipat) a collection of programs to demonstrate various Computer Vision concepts/topics like *Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation*
 
 ##  What I’m currently learning 🌱
-I am exploring, learning & trying to get better in the domain of Deep Learning. Currently I am doing the Udemy course [PyTorch for Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/). In parallel, I am reading the book [Dive into Deep Learning](https://d2l.ai/index.html)
+I am exploring, learning & trying to get better in the domain of Deep Learning. Currently I am doing the Udemy course [PyTorch for Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/). In parallel, I am reading the book [Dive into Deep Learning](https://d2l.ai/index.html).
+
+
+
 
 ## 📫 How to reach me: ...
 
