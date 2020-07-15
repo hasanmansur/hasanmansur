@@ -7,8 +7,8 @@ I am Hasan, a CS Grad student & Teaching Assistant at George Mason University, U
 
 ## What I am up to right now 🔭
 I am working on developing the follwoing projects:
-- Developing a CNN based Face Mask Detector [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh)
-- Working on a Microservice boilerplate project [PingPong](https://www.google.com) to demonstrate different Software Engineeting & Architecture aspects *Microservice Architecture, Asynchronous I/O, Message Queueing, TDD, Containerization, CI/CD*  
+- [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh) a Convolutional Neural Network based model for Face Mask Detection
+- [PingPong](https://www.google.com) a Microservice boilerplate project to demonstrate different Software Engineeting & Architecture aspects like *Microservice Architecture, Asynchronous I/O, Message Queueing, TDD, Containerization, CI/CD*  
 
 ## 🌱 I’m currently learning
 
