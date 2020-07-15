@@ -5,8 +5,8 @@
 ### Hi folks  👋
 I am Hasan, a CS Grad student & Teaching Assistant at George Mason University, USA. Before moving to the grad school, I had the opportuity to work as a Software Engineer in different tech stack for around 5 years. I know my fair share of languages, Python & JS are the ones I use the most.
 
-## 🔭 What I am up to right now
-- I am developing a Deep Learning project Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)
+## What I am up to right now 🔭
+- Developing a Deep Learning project [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh) 
 
 ## 🌱 I’m currently learning
 
