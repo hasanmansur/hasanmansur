@@ -2,7 +2,7 @@
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi folks  👋
+### Hi folks, this is Hasan  👋
 - Currently a CS grad student & Teaching Assistant @George Mason University
 - Focused, pragmatic & result oriented individual with 5 years of experience in Software Development
 - Experienced in different programming languages including Python, Javascript & Java
