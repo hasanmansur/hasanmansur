@@ -3,7 +3,15 @@
 -->
 
 ### Hi folks  👋
-I am Hasan, a CS Grad student & Teaching Assistant at George Mason University, USA. Before moving to the grad school, I had the opportuity to work as a Software Engineer in different tech stack for around 5 years. I know my fair share of languages, Python & JS are the ones I use the most.
+- Currently a CS grad student & Teaching Assistant @George Mason University
+- Focused, pragmatic & result oriented individual with 5 years of experience in Software Development
+- Experienced in different programming languages including Python, Javascript & Java
+- Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
+- Competent in MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Docker
+- Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
+- Passionate about building deep learning models. Good working knowledge with PyTorch, OpenCV, NumPy, pandas
+
+I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
 ## What I am up to right now 🔭
 I am working on developing the follwoing projects:
