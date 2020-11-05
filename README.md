@@ -4,7 +4,7 @@
 
 ### Hi folks, this is Hasan  👋
 - Currently a CS grad student & Teaching Assistant @George Mason University
-- Focused, pragmatic & result oriented individual with 5 years of experience in Software Development
+- Focused, pragmatic & result oriented individual with professional experience in Software Development
 - Experienced in different programming languages including Python, Javascript & Java
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Docker
