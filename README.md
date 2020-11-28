@@ -13,8 +13,8 @@
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
 ## What I am up to right now 🔭
-I am working on developing the follwoing projects:
-- [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh) a Convolutional Neural Network model for Face Mask Detection
+I am working on a reseaech project [UI DP Detection] - Deep learning assisted automated analysis for UI Dark Pattern detection
+<!-- - [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh) a Convolutional Neural Network model for Face Mask Detection -->
 <!--- [KheroKhata (Bengali: খেরোখাতা)](https://github.com/hasanmansur/KheroKhata) a Microservice boilerplate project to demonstrate different Software Engineering & Architecture aspects like *Microservice Architecture, REST api, Asynchronous Communication, Message Queueing, TDD, Containerization, CI/CD* 
 -->
 <!-- - [Drishtipat (Bengali: দৃষ্টিপাত)](https://github.com/hasanmansur/Drishtipat) a collection of programs to demonstrate various Computer Vision concepts/topics like *Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation*
