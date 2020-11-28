@@ -3,9 +3,8 @@
 -->
 
 ### Hi folks, this is Hasan  👋
-- Currently a CS grad student & Teaching Assistant @George Mason University
-- Focused, pragmatic & result oriented individual with professional experience in Software Development
-- Experienced in different programming languages including Python, Javascript & Java
+- Currently a CS grad student with ​professional experience in Software Development
+- Exploring applications of machine learning to solve problems from HCI and Software Engineering domains
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
