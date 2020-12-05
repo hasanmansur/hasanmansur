@@ -6,7 +6,7 @@
 - Currently a CS grad student with ​professional experience in Software Development
 - Exploring applications of machine learning to solve problems from HCI and Software Engineering domains
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
-- Competent in MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Docker
+- Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
 - Passionate about building deep learning models. Good working knowledge with PyTorch, OpenCV, NumPy, pandas
 
