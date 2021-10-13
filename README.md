@@ -4,7 +4,7 @@
 
 ### Hi folks, this is Hasan  👋
 - Currently a CS PhD student with professional experience in Software Development
-- Exploring applications of machine learning to solve problems from HCI and Software Engineering domains
+- Exploring applications of Deep Learning to solve problems from HCI and Software Engineering domains
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
