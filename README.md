@@ -13,7 +13,8 @@
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
 ## What I am up to right now 🔭
-I am working on a reseaech project **UI Dark Pattern Detection** - Deep learning assisted automated analysis for UI Dark Pattern detection
+I am working on a reseaech project **UI Dark Pattern Detection** - Deep learning assisted automated approach for detecting deceptive
+UI designs to protect users from designs with malicious intent, and guide the developers in complying with the ethical design principles
 <!-- - [Mukh-O-Mukhosh (Bengali: মুখ ও মুখোশ)](https://github.com/hasanmansur/Mukh-O-Mukhosh) a Convolutional Neural Network model for Face Mask Detection -->
 <!--- [KheroKhata (Bengali: খেরোখাতা)](https://github.com/hasanmansur/KheroKhata) a Microservice boilerplate project to demonstrate different Software Engineering & Architecture aspects like *Microservice Architecture, REST api, Asynchronous Communication, Message Queueing, TDD, Containerization, CI/CD* 
 -->
