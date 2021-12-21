@@ -21,8 +21,8 @@ UI designs to protect users from designs with malicious intent, and guide the de
 -->
 <!-- - [Drishtipat (Bengali: দৃষ্টিপাত)](https://github.com/hasanmansur/Drishtipat) a collection of programs to demonstrate various Computer Vision concepts/topics like *Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation*
 -->
-## What I’m currently learning 🌱
-- I am exploring, learning & trying to get a solid foundation in the domain of Deep Learning.  Currently, I am reading the online book [Dive into Deep Learning](https://d2l.ai/index.html).
+<!-- ## What I’m currently learning 🌱
+- I am exploring, learning & trying to get a solid foundation in the domain of Deep Learning.  Currently, I am reading the online book [Dive into Deep Learning](https://d2l.ai/index.html). -->
 
 <!-- Currently I am doing the Udemy course [PyTorch for Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/). In parallel, -->
 <!-- 
