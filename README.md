@@ -1,8 +1,8 @@
 <!--
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-### Hi folks, this is Hasan | CS PhD student @ GMU | Looking for **Summer 2023 intern** roles  👋
+#### Looking for **Summer 2023 intern** roles
+### Hi folks, this is Hasan  👋
 - CS PhD student with ​5+ years of professional experience in Software Development
 - Working on research projects focused on developing automated approaches to help facilitate Ethical Software Design, Software Evolution, and Software Accessibility
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
