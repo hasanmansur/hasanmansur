@@ -2,7 +2,7 @@
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi folks, this is Hasan | Looking for **Summer 2023 intern** roles  👋
+### Hi folks, this is Hasan | CS PhD student @ GMU | Looking for **Summer 2023 intern** roles  👋
 - CS PhD student with ​5+ years of professional experience in Software Development
 - Current Research endeavor is focused on developing automated approaches to help
 facilitate Ethical Software Design, Software Evolution, and Software Accessibility
