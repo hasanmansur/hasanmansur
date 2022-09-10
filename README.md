@@ -2,7 +2,7 @@
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi folks, this is Hasan  👋
+### Hi folks, this is Hasan | Looking for **Summer 2023 intern** roles  👋
 - CS PhD student with ​5+ years of professional experience in Software Development
 - Current Research endeavor is focused on developing automated approaches to help
 facilitate Ethical Software Design, Software Evolution, and Software Accessibility
@@ -13,8 +13,7 @@ facilitate Ethical Software Design, Software Evolution, and Software Accessibili
 
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
-## What I am up to right now 🔭
-- Looking for **Summer 2023 intern** roles 
+## What I am up to right now 🔭 
 - I am working on a research project **AidUI** - a novel automated approach for detecting deceptive
 UI designs to protect users from designs with malicious intent, and guide the developers in complying with the ethical design principles
 
