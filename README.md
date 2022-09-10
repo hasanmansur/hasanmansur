@@ -4,7 +4,7 @@
 
 ### Hi folks, this is Hasan  👋
 - CS PhD student with ​5+ years of professional experience in Software Development
-- Research endeavor is focused on developing automated approaches to help
+- Current Research endeavor is focused on developing automated approaches to help
 facilitate Ethical Software Design, Software Evolution, and Software Accessibility
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
