@@ -14,9 +14,9 @@
 
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
-## What I am up to right now 🔭 
+<!-- ## What I am up to right now 🔭 
 - I am working on a research project **AidUI** - a novel automated approach for detecting deceptive
-UI designs to protect users from designs with malicious intent, and guide the developers in complying with the ethical design principles
+UI designs to protect users from designs with malicious intent, and guide the developers in complying with the ethical design principles -->
 
 <!-- ## What I’m currently learning 🌱
 - I am exploring, learning & trying to get a solid foundation in the domain of Deep Learning.  Currently, I am reading the online book [Dive into Deep Learning](https://d2l.ai/index.html). -->
