@@ -19,6 +19,7 @@ I enjoy working for solving real life problems, and not opinionated on tools and
 ## Happy to share 🔭
 - our paper, "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces" has been accepted to appear in the proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), the premier conference of Software Engineering. Alhamdulillah. In this paper, we introduce AidUI, a novel automated approach that uses computer vision and natural language processing techniques to recognize a set of visual and textual cues in application screenshots that signify the presence of ten unique UI deceptive designs (aka dark patterns), allowing for their detection, classification, and localization.
 - Pre-print of the paper is available here: https://lnkd.in/eY-mV2FN
+- Replication package is available here: https://github.com/SageSELab/AidUI
 
 <!-- ## What I am up to right now 🔭 
 - I am working on a research project **AidUI** - a novel automated approach for detecting deceptive
