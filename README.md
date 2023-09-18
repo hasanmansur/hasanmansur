@@ -17,9 +17,7 @@
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
 ## Happy to share 🔭
-- our paper, "**_AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces_**" has been accepted to appear in the proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), the premier conference of Software Engineering. Alhamdulillah.
-- Pre-print of the paper is available here: https://lnkd.in/eY-mV2FN
-- Replication package is available here: https://github.com/SageSELab/AidUI
+- our paper, "**_AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces_**" has been accepted to appear in the proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), the premier conference of Software Engineering. Alhamdulillah. Pre-print of the paper is available here: https://lnkd.in/eY-mV2FN. Replication package is available here: https://github.com/SageSELab/AidUI
 
 <!-- ## What I am up to right now 🔭 
 - I am working on a research project **AidUI** - a novel automated approach for detecting deceptive
