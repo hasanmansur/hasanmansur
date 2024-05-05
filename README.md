@@ -11,10 +11,13 @@
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
 - Open to relocation and have **US work authorization**
+
+<!--
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
 - Passionate about building deep learning models. Good working knowledge with PyTorch, OpenCV, NumPy, pandas, spaCy
+-->
 
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
