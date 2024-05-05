@@ -4,7 +4,7 @@
 ### Hi folks, this is Hasan 
 ### 👋 Looking for Research/SWE positions 👋
 
-#### Software Engineering HCI Machine Learning Generative AI LLM
+#### Software Engineering | HCI | Machine Learning | Generative AI | LLM
 - **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
 - **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
