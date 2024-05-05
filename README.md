@@ -2,7 +2,7 @@
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 👋 Looking for Research/SWE positions | CS PhD Candidate @GMU | Software Engineering/Machine Learning/Generative AI/LLM 👋
+### 👋 Looking for Research/SWE positions | Software Engineering/Machine Learning/Generative AI/LLM 👋
 
 ### Hi folks, this is Hasan  
 - **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
