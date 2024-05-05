@@ -5,10 +5,12 @@
 ### 👋 Looking for intern positions (Software Engineering intern, Research intern) 👋
 
 ### Hi folks, this is Hasan  
-- PhD student in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
+- **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- Current research projects are focused on developing automated approaches to help facilitate Ethical Software Design, Software Evolution, and Software Accessibility
-- 5+ years of professional experience in Software Development
+- **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
+- **5+ years of professional** software engineering experience
+- **Publication track record** in top-tier SWE venues
+- Open to relocation and have **US work authorization**
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
