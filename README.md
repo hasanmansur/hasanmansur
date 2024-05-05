@@ -1,7 +1,7 @@
 <!--
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi folks, this is Hasan  👋 Looking for Research/SWE positions 👋
+### Hi folks, this is Hasan  👋 Looking for Research/SWE positions 👋 [Resume]([https://sagelab.io/](https://smhasanmansur.netlify.app/uploads/resume.pdf))
 
 #### Software Engineering | HCI | Machine Learning | Generative AI | LLM
 - **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
