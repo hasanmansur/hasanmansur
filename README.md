@@ -28,12 +28,12 @@ I enjoy working for solving real life problems, and not opinionated on tools and
 - **Tools / Platforms**: Git, Docker, AWS, Hugging Face
 
 ## Publications 🔭
-- Arun Krishnavajjala, S M Hasan Mansur, Justin Jose, Kevin Moran, "MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs", ICSE'24, https://arxiv.org/abs/2403.13690
-- Sabiha Salma, S M Hasan Mansur, Kevin Moran, Yule Zhang, "GUIEvo: Automated Evolution of Mobile Application GUIs from Mockups", MSR’24
-- Junayed Mahmud, Nadeeshan De Silva, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, Oscar Chaparro, Andrian (Andi) Marcus, Kevin Moran, "On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization",ICSE'24, https://arxiv.org/abs/2310.08083
-- S M Hasan Mansur, Kevin Moran, "Toward Automated Tools to Support Ethical GUI Design", ICSE'23: Companion Proceedings, https://ieeexplore.ieee.org/abstract/document/10172491
-- S M Hasan Mansur, Sabiha Salma, Damilola Awofisayo, Kevin Moran, "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces", ICSE'23, https://arxiv.org/abs/2303.06782
-- Tyler Wendland, Jingyang Sun, Junayed Mahmud, S M Hasan Mansur, Steven Huang, Kevin Moran, Julia Rubin, Mattia Fazzini, "AndroR2: A Dataset of Manually-Reproduced Bug Reports for Android apps", MSR'21, https://arxiv.org/abs/2106.08403
+- Arun Krishnavajjala, **S M Hasan Mansur**, Justin Jose, Kevin Moran, "MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs", ICSE'24, https://arxiv.org/abs/2403.13690
+- Sabiha Salma, **S M Hasan Mansur**, Kevin Moran, Yule Zhang, "GUIEvo: Automated Evolution of Mobile Application GUIs from Mockups", MSR’24
+- Junayed Mahmud, Nadeeshan De Silva, Safwat Ali Khan, Seyed Hooman Mostafavi, **S M Hasan Mansur**, Oscar Chaparro, Andrian (Andi) Marcus, Kevin Moran, "On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization",ICSE'24, https://arxiv.org/abs/2310.08083
+- **S M Hasan Mansur**, Kevin Moran, "Toward Automated Tools to Support Ethical GUI Design", ICSE'23: Companion Proceedings, https://ieeexplore.ieee.org/abstract/document/10172491
+- **S M Hasan Mansur**, Sabiha Salma, Damilola Awofisayo, Kevin Moran, "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces", ICSE'23, https://arxiv.org/abs/2303.06782
+- Tyler Wendland, Jingyang Sun, Junayed Mahmud, **S M Hasan Mansur**, Steven Huang, Kevin Moran, Julia Rubin, Mattia Fazzini, "AndroR2: A Dataset of Manually-Reproduced Bug Reports for Android apps", MSR'21, https://arxiv.org/abs/2106.08403
 
 <!-- ## What I am up to right now 🔭 
 - I am working on a research project **AidUI** - a novel automated approach for detecting deceptive
