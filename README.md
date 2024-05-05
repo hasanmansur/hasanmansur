@@ -4,7 +4,7 @@
 
 ### 👋 Looking for Research/SWE positions 👋
 
-## Software Engineering HCI Machine Learning Generative AI LLM
+#### Software Engineering HCI Machine Learning Generative AI LLM
 
 ### Hi folks, this is Hasan  
 - **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
