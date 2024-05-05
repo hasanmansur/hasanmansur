@@ -19,8 +19,6 @@
 - Passionate about building deep learning models. Good working knowledge with PyTorch, OpenCV, NumPy, pandas, spaCy
 -->
 
-I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
-
 ## Technical Skills 🔭
 - **Languages**: Python, Javascript, Java, C
 - **Frameworks / Libraries**: Node.js, Express.js, REST API, PyTorch, OpenCV, NumPy, spaCy, Socket.IO
