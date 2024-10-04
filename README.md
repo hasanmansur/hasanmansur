@@ -10,7 +10,7 @@
 - **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
-- Open to relocation and have **US work authorization**
+- Open to relocation and **no sponsorship required**.
 
 <!--
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
