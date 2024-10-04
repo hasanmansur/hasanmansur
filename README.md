@@ -20,10 +20,11 @@
 -->
 
 ## Technical Skills 🔭
-- **Languages**: Python, Javascript, Java, C
-- **Frameworks / Libraries**: Node.js, Express.js, REST API, PyTorch, OpenCV, NumPy, spaCy, Socket.IO
-- **Databases**: MySQL, MongoDB, Redis, Elasticsearch,SQLite
-- **Tools / Platforms**: Git, Docker, AWS, Hugging Face
+- **Programming**: Python, Javascript, Java, C
+- **Databases**: MySQL, MongoDB, Redis, Elasticsearch, SQLite
+- **Libraries**: OpenCV, NumPy, Matplotlib, Pandas, Socket.IO
+- **ML/DL/NLP**: Transformer, LLM finetuning, PyTorch, Hugging Face, scikit‐learn, spaCy
+- **Backend/Cloud/DevOps**: Node.js, Express.js, REST API, AWS, Docker, Git
 
 ## Publications 🔭
 - Arun Krishnavajjala, **S M Hasan Mansur**, Justin Jose, Kevin Moran, "_MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs_", ICSE'24, https://arxiv.org/abs/2403.13690
