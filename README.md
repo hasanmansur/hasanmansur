@@ -23,7 +23,7 @@
 - **Programming**: Python, Javascript, Java, C
 - **Databases**: MySQL, MongoDB, Redis, Elasticsearch, SQLite
 - **Libraries**: OpenCV, NumPy, Matplotlib, Pandas, Socket.IO
-- **ML/DL/NLP**: Transformer, LLM finetuning, PyTorch, Hugging Face, scikit‐learn, spaCy
+- **ML/DL/NLP**: LLM (prompting, finetuning), PyTorch, Hugging Face, LangChain, scikit‐learn, spaCy
 - **Backend/Cloud/DevOps**: Node.js, Express.js, REST API, AWS, Docker, Git
 
 ## Publications 🔭
@@ -33,18 +33,6 @@
 - **S M Hasan Mansur**, Kevin Moran, "_Toward Automated Tools to Support Ethical GUI Design_", ICSE'23: Companion Proceedings, https://ieeexplore.ieee.org/abstract/document/10172491
 - **S M Hasan Mansur**, Sabiha Salma, Damilola Awofisayo, Kevin Moran, "_AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces_", ICSE'23, https://arxiv.org/abs/2303.06782
 - Tyler Wendland, Jingyang Sun, Junayed Mahmud, **S M Hasan Mansur**, Steven Huang, Kevin Moran, Julia Rubin, Mattia Fazzini, "_AndroR2: A Dataset of Manually-Reproduced Bug Reports for Android apps_", MSR'21, https://arxiv.org/abs/2106.08403
-
-<!-- ## What I am up to right now 🔭 
-- I am working on a research project **AidUI** - a novel automated approach for detecting deceptive
-UI designs to protect users from designs with malicious intent, and guide the developers in complying with the ethical design principles -->
-
-<!-- ## What I’m currently learning 🌱
-- I am exploring, learning & trying to get a solid foundation in the domain of Deep Learning.  Currently, I am reading the online book [Dive into Deep Learning](https://d2l.ai/index.html). -->
-
-<!-- Currently I am doing the Udemy course [PyTorch for Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/). In parallel, -->
-<!-- 
-- To get myself better in the Software Architecture domain, I am currently reading the book **Microservices: From Design to Deployment** *by Chris Richardson
-with Floyd Smith* -->
 
 ## How to reach me 📫
 - email: smhasanmansur@gmail.com
