@@ -1,16 +1,15 @@
 <!--
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi folks, this is Hasan  👋 Looking for Research/SWE positions 👋 
+### Assistant Professor, Computer Science @ Stephen F. Austin State University 👋 
 #### View my [Resume](https://smhasanmansur.netlify.app/uploads/resume.pdf)
 
 #### Software Engineering | HCI | Machine Learning | Generative AI | LLM
-- **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
-- Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
+- **PhD** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
+- Worked at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
+- **Doctoral Research focus** *Automated Software Engineering via Multimodal Machine Learning*
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
-- Open to relocation and **US Legal Permanent Resident**
 
 <!--
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
