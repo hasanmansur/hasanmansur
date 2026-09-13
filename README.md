@@ -34,7 +34,7 @@
 - Tyler Wendland, Jingyang Sun, Junayed Mahmud, **S M Hasan Mansur**, Steven Huang, Kevin Moran, Julia Rubin, Mattia Fazzini, "_AndroR2: A Dataset of Manually-Reproduced Bug Reports for Android apps_", MSR'21, https://arxiv.org/abs/2106.08403
 
 ## How to reach me 📫
-- email: smhasanmansur@gmail.com
+- email: smhasanmansur@gmail.com, SM.Hasan.Mansur@sfasu.edu
 - linkedin: https://www.linkedin.com/in/smhasanmansur/
 - twitter: @smhasanmansur
 
