@@ -7,7 +7,7 @@
 #### Software Engineering | HCI | Machine Learning | Generative AI | LLM
 - **PhD** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Worked at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- **Doctoral Research focus** *Automated Software Engineering via Multimodal Machine Learning*
+- **Doctoral Research focus** *Automated Software Engineering via Multimodal AI*
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
 
