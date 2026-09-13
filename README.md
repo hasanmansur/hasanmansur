@@ -1,7 +1,7 @@
 <!--
 **hasanmansur/hasanmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Assistant Professor, Computer Science @ Stephen F. Austin State University 👋 
+### Assistant Professor, Computer Science @ [Stephen F. Austin State University](https://www.sfasu.edu/)
 #### View my [Resume](https://smhasanmansur.netlify.app/uploads/resume.pdf)
 
 #### Software Engineering | HCI | Machine Learning | Generative AI | LLM
